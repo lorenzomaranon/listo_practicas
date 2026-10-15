@@ -5,3 +5,4 @@
 - `git diff`: lo que has cambiado y aún no has preparado
 - `git diff --staged`: lo que ya está preparado
 - hola
+- `git switch -c <rama>`: crea una rama
